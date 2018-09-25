@@ -1,7 +1,7 @@
 # OverRustleLogsDownloader
 OverRustle Logs Download script
 
-Script to download all available chatlogs from the tracked streamers on [OverRustle Logs](https://overrustlelogs.net/)
+Script to download all available chatlogs from the available twitch streamers on [OverRustle Logs](https://overrustlelogs.net/)
 
 #### Setup:
 ```bash
