@@ -5,7 +5,7 @@ Script to download all available chatlogs from the available twitch streamers on
 
 #### Setup:
 ```bash
-git clone https://github.com/caspertjuh/OverRustleLogsDownloader.git
+git clone https://github.com/792x/OverRustleLogsDownloader.git
 ```
 
 or alternatively download app.py manually.
