@@ -4,8 +4,10 @@ OverRustle Logs Download script
 This is a script to download all available chatlogs from the tracked streamers on OverRustle Logs https://overrustlelogs.net/
 
 #### Setup:
-Run 
-`git clone https://github.com/caspertjuh/OverRustleLogsDownloader.git`
+```bash
+git clone https://github.com/caspertjuh/OverRustleLogsDownloader.git
+```
+
 or alternatively download app.py manually.
 
 #### Run:
