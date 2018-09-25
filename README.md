@@ -1,7 +1,7 @@
 # OverRustleLogsDownloader
 OverRustle Logs Download script
 
-This is a script to download all available chatlogs from the tracked streamers on OverRustle Logs https://overrustlelogs.net/
+Script to download all available chatlogs from the tracked streamers on [OverRustle Logs](https://overrustlelogs.net/)
 
 #### Setup:
 ```bash
@@ -17,3 +17,6 @@ python app.py
 ```
 A `logs` folder will be created with the following structure:
 `logs\name\month_year\year_month_day.txt`
+
+#### Dependencies:
+- [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
