@@ -12,6 +12,7 @@ or alternatively download app.py manually.
 
 #### Run:
 ```bash
+cd OverRustleLogsDownloader
 python app.py
 ```
 A `logs` folder will be created with the following structure:
