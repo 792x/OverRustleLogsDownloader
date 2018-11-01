@@ -1,5 +1,5 @@
 # OverRustleLogsDownloader
-Python script to download OverRustle (Twitch) logs
+Python script to download OverRustle Twitch Chat logs
 
 Script to download all available chatlogs from the available twitch streamers on [OverRustle Logs](https://overrustlelogs.net/)
 
