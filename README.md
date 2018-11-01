@@ -20,3 +20,4 @@ A `logs` folder will be created with the following structure:
 
 #### Dependencies:
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+- [Requests](https://pypi.org/project/requests/)
